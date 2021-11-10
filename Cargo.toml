@@ -12,3 +12,4 @@ lto = "fat"
 panic = "abort"
 
 [dependencies]
+rand = "0.8"
